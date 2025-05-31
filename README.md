@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ahmed</h1>
-<h3>🐞 Bug Bounty Hunter | Security Learner</h3>
+<h1 align="center">Hi there 👋, I'm Ahmed Hossam</h1>
+<h3>🐞 Bug Bounty Hunter</h3>
 
 ### 💻 About Me
 
