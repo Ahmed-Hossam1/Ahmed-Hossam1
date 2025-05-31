@@ -1,15 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ahmed</h1>
-<h3 align="center">🐞 Bug Bounty Hunter | Security Learner</h3>
-
----
+<h3>🐞 Bug Bounty Hunter | Security Learner</h3>
 
 ### 💻 About Me
 
 - 🎯 **Bug Bounty Hunter**
 - 🧠 Just a man who **loves hunting bugs**
 - 🚀 **Big Noob** (but learning every day)
-
----
 
 ### 📫 How To Reach Me
 
