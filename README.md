@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | React & Next.js Developer</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://portfolio-psi-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="YOUR_CV_LINK">
@@ -15,13 +15,13 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/ahmed-hossam-28918128b">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="YOUR_GMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="YOUR_GITHUB">
+  <a href="https://github.com/Ahmed-Hossam1">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -52,7 +52,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam 1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
