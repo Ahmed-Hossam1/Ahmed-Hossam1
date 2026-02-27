@@ -52,7 +52,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam 1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
