@@ -5,49 +5,60 @@
   <a href="https://portfolio-psi-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="YOUR_CV_LINK">
     <img src="https://img.shields.io/badge/My%20CV-1DA1F2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-hossam-28918128b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="YOUR_GMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Ahmed-Hossam1">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 </p>
 
----
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,redux,prisma,mysql,html,css,tailwind,git,github" />
 </p>
 
 
----
+### 📦 Libraries & Integrations
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hot_Toast-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Headless_UI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+</p>
 
-<div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hossam1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+## 🧠 Focus on 
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hossam1&layout=compact&theme=tokyonight&hide_border=true" />
+- 🔐 Secure Authentication (NextAuth, JWT)
+- 🌍 RESTful API Integration
+- 🏗 Clean & Scalable Architecture
+- ♻️ Reusable & Resilient Components
+- ⚡ Performance Optimization (Memoization, Lazy Loading)
+- 🧩 Advanced State Management
+- 🗄 Prisma ORM & SQL Databases
 
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -55,7 +66,6 @@
   <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
