@@ -15,7 +15,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-hossam-28918128b">
+  <a href="https://linkedin.com/in/ahmed-hossam-28918128b">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="YOUR_GMAIL">
