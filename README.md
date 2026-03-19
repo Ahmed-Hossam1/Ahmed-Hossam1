@@ -10,6 +10,8 @@
   </a>
 </p>
 
+## 🌐 Contact With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-hossam-28918128b">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
@@ -56,17 +58,6 @@
   <img src="https://cdn.simpleicons.org/headlessui" width="50"/>
   <img src="https://cdn.simpleicons.org/i18next" width="50"/>
 </p>
-
-
-## 🧠 Focus on 
-
-- 🔐 Secure Authentication (NextAuth, JWT)
-- 🌍 RESTful API Integration
-- 🏗 Clean & Scalable Architecture
-- ♻️ Reusable & Resilient Components
-- ⚡ Performance Optimization (Memoization, Lazy Loading)
-- 🧩 Advanced State Management
-- 🗄 Prisma ORM & SQL Databases
 
 
 ## 🔥 Contribution Streak
