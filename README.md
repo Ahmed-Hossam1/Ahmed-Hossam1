@@ -66,6 +66,11 @@
   <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Hossam1&theme=github-dark&hide_border=true" />
+</p>
 
 ## 🐍 Contribution Snake
 
