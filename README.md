@@ -59,14 +59,22 @@
   <img src="https://cdn.simpleicons.org/i18next" width="50"/>
 </p>
 
-
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Hossam1&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hossam1?cardType=level&theme=algolia&preferLogin=false" height="160"/>
 </p>
 
-## 📊 Activity
+
+## 🏆 Codewars
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Ahmed-Hossam1/badges/large" />
+</p>
+
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Hossam1&theme=github-dark&hide_border=true" />
