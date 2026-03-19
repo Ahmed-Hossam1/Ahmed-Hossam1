@@ -27,25 +27,37 @@
   </a>
 </p>
 
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,redux,prisma,mysql,html,css,tailwind,git,github" />
-</p>
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="50"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+  <img src="https://cdn.simpleicons.org/supabase" width="50"/>
 
+  <!-- Libraries -->
 
-### 📦 Libraries & Integrations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hot_Toast-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Headless_UI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://cdn.simpleicons.org/axios" width="50"/>
+  <img src="https://cdn.simpleicons.org/tanstack" width="50"/>
+  <img src="https://cdn.simpleicons.org/reacthookform" width="50"/>
+  <img src="https://cdn.simpleicons.org/shadcnui" width="50"/>
+  <img src="https://cdn.simpleicons.org/headlessui" width="50"/>
+  <img src="https://cdn.simpleicons.org/i18next" width="50"/>
 </p>
 
 
