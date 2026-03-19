@@ -5,25 +5,22 @@
   <a href="https://portfolio-psi-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="YOUR_CV_LINK">
     <img src="https://img.shields.io/badge/My%20CV-1DA1F2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
-## 🌍 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-hossam-28918128b">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ahmed-Hossam1">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+
+  <a href="https://wa.me/+201284457379">
+    <img src="https://cdn.simpleicons.org/whatsapp" height="50" />
   </a>
 </p>
 
