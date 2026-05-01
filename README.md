@@ -5,7 +5,7 @@
   <a href="https://portfolio-psi-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="YOUR_CV_LINK">
+  <a href="https://github.com/Ahmed-Hossam1/Ahmed_Hossam_CV/blob/main/Ahmed_Hossam_CV.pdf">
     <img src="https://img.shields.io/badge/My%20CV-1DA1F2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
