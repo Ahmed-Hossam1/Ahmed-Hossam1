@@ -5,7 +5,7 @@
   <a href="https://portfolio-psi-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/11qisjuOkT3v_FVBARoHMQPgzR7VOU_b-/view">
+  <a href="https://drive.google.com/file/d/1t9kAVxaOM_EoeVxTM61IgMbEnkRARG-Y/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-1DA1F2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
