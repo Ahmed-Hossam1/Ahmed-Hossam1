@@ -5,7 +5,7 @@
   <a href="https://my-new-portfolio-rho-gules.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1t9kAVxaOM_EoeVxTM61IgMbEnkRARG-Y/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1pxkfbqQp2HLNXyX-v99CLuVtKtpUKGZg/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-1DA1F2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
